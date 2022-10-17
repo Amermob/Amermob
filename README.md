@@ -4,7 +4,7 @@
 -  I’m interested in Anime games 
 -  How to reach me: 
 -  Discord: Amer#3375
--  Email: amermob5@gmail.com 
+-  Email: amermob777@gmail.com 
 -  whatsapp: +966504674153
 
 <!---
