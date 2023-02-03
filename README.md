@@ -1,6 +1,6 @@
 -  Hi, my name is Amer Mohamed
--  I’m interested in Anime, Manga and Games :)
--  How to reach me: 
+-  Barista at Sombrero Coffee Shop
+-  I like Anime, Manga and Games 
+-  hehe
 -  Discord: Amer#3375
 -  Email: amermob5@gmail.com 
--  whatsapp: +966504674153
