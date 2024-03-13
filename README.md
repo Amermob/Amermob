@@ -1,6 +1,1 @@
--  Hi, my name is Amer Mohamed
--  Barista at Sombrero Coffee Shop, Riyadh
--  I like Anime, Manga, and Games 
 -  hehe
--  Discord:  Uncle Amer#3375
--  Email: amermob777@gmail.com 
