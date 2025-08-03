@@ -6,6 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amermob&label=Profile%20views&color=0e75b6&style=flat" alt="amermob" /> </p>
 
+
+- projects made for a client:
+  Sombrero:[https://amermob.github.io/Sombrero-Coffee-Shop]
+  Blue Arrow :[https://amermob.github.io/blue-arrows]
+
+
 - 👨‍💻 All of my projects are available at [https://amermob.github.io/react-portfolio/](https://amermob.github.io/react-portfolio/)
 
 - 📫 How to reach me **amermob5@gmail.com**
