@@ -8,8 +8,8 @@
 
 
 - projects made for a client:
-  - Sombrero https://amermob.github.io/Sombrero-Coffee-Shop
-  - Blue Arrow https://amermob.github.io/blue-arrows
+  - Sombrero Coffee Shop https://amermob.github.io/Sombrero-Coffee-Shop
+  - Blue Arrow Events https://amermob.github.io/blue-arrows
 
 
 - 👨‍💻 All of my projects are available at [https://amermob.github.io/react-portfolio/](https://amermob.github.io/react-portfolio/)
